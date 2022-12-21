@@ -1,10 +1,12 @@
 [![MasterHead](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)](https://rishavchanda.io)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shantanu-chakraborty02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-chakraborty-4165b5200/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:Shantanuch02@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com )](mailto:Shantanuch02@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+916263628382)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Sunny_c02)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](shantanu#5037)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/shantanu_ch02/)
+
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)]() -->
 <!-- [![CodeForces](https://img.shields.io/badge/CodeForces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)]()
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)]() -->
 
