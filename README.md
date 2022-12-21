@@ -74,10 +74,10 @@
 <p align="left">
  
 <a href="mailto:Shantanuch02@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="shantanuch02@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shantanu-chakraborty-4165b5200/" target="_blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled--v3.png" alt="https://www.linkedin.com/in/shantanu-chakraborty-4165b5200/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shantanu-chakraborty-4165b5200/" target="_blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled--v3.png" alt="https://www.linkedin.com/in/shantanu-chakraborty-4165b5200/" height="30" width="40" /></a>
 <a href="https://instagram.com/_shantanu_02_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" alt="_shantanu_02_" height="30" width="40" /></a>
 <a href="https://wa.me/+916263628382" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/220/220236.png" height="30" width="40"/></a>
 <a href="https://www.leetcode.com/shantanu_ch02" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" alt="shantanu_ch02" height="30" width="40" /></a>
-<a href="https://discord.gg/shantanu#5037" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111370.png" alt="shantanu#5037" height="30" width="40" /></a>
+
   
   
