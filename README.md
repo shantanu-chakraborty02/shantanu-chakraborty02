@@ -81,9 +81,5 @@
 
   
   
-**Snake eating my contribution graph**
-  
-![snake gif](https://github.com/shantanu-chakraborty02/shantanu-chakraborty02/blob/output/github-contribution-grid-snake.gif)
-  
   
   
