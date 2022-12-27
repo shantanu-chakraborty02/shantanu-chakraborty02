@@ -9,9 +9,9 @@
 
 - I'm a Developer🎯, Student 👨🏻‍🎓 and Music lover🎼!!
 
-- I’m currently learning **Everything 🤭**
-
 - You can ask me about **Web-Dev, DSA 🤓**
+
+- I’m currently learning **Everything 🤭**
 
 - **Know about my experiences** <a href="https://drive.google.com/file/d/1QIkG2hEAzocqzezPgDFFR4Ol147DK0GS/view?usp=sharing">Take a look!🎓</a>
 
