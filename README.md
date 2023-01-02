@@ -2,7 +2,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shantanu-chakraborty02)
 
 
-<h1 align="center">Hi 👋, I'm shantanu chakraborty</h1>
+<h1 align="center">Hi 👋, I'm shantanu chakraborty <br> Happy new year</h1>
 <h2 align="center">Welcome to my Git-hub</h2>
 <h3 align="center">I'm a Bachelor’s student at Jaypee University of Engineering and Technology, undertaking the Computer science engineering course. </h3>
 
